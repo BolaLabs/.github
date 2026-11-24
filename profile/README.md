@@ -58,10 +58,18 @@ Com ou sem IA, o objetivo é o mesmo: **sistemas fiáveis que devolvem tempo às
 
 ### 🧩 Capacidades
 
-| | | |
-|---|---|---|
-| ⚙️ **Automação de processos**<br><sub>Workflows, armazéns e logística.</sub> | 🔌 **Integração de APIs & sistemas**<br><sub>ERP, banca (MB WAY/SIBS), dados.</sub> | 📊 **Dashboards analíticos**<br><sub>Decidir com dados.</sub> |
-| 🔐 **IA local e privada**<br><sub>Chave própria, nos seus servidores.</sub> | 🌐 **Portais & web apps**<br><sub>Do backoffice ao público.</sub> | ⚡ **Dados & performance SQL**<br><sub>Consultas até 70% mais rápidas.</sub> |
+<table>
+  <tr>
+    <td width="33%" valign="top">⚙️ <b>Automação de processos</b><br><sub>Workflows, armazéns e logística.</sub></td>
+    <td width="33%" valign="top">🔌 <b>Integração de APIs &amp; sistemas</b><br><sub>ERP, banca (MB WAY/SIBS), dados.</sub></td>
+    <td width="33%" valign="top">📊 <b>Dashboards analíticos</b><br><sub>Decidir com dados.</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">🔐 <b>IA local e privada</b><br><sub>Chave própria, nos seus servidores.</sub></td>
+    <td width="33%" valign="top">🌐 <b>Portais &amp; web apps</b><br><sub>Do backoffice ao público.</sub></td>
+    <td width="33%" valign="top">⚡ <b>Dados &amp; performance SQL</b><br><sub>Consultas até 70% mais rápidas.</sub></td>
+  </tr>
+</table>
 
 ### 🧠 IA em produção, hoje
 
